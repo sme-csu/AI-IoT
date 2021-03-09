@@ -19,6 +19,10 @@ Get proven, secure and responsible AI capabilities on car networking with Azure 
 
   https://microsoftapc.sharepoint.com/teams/PRCCSU/Shared%20Documents/General/SME%20Technology%20Sharing/Dec.18%20AI%E4%B8%8E%E8%BD%A6%E8%81%94%E7%BD%91/Recording.url
 
+- SME Sharing PowerPoint: 
+
+  https://microsoftapc.sharepoint.com/:p:/t/PRCCSU/EYIx9amALkVAss-LHY9En20BE4Mbfjl4Hu5GOEp7rr_PpA?e=0koHOY
+
 ### 1.2 IoT
 
 Azure IoT provides the industry’s broadest portfolio of services and capabilities that meets you where you are, from the edge to the cloud, according to your needs and with the requirements from your industry. The open approach of Azure IoT places ease of development and integration at the forefront. Connect, monitor and control billions of devices on your terms by choosing to develop with speed and simplicity on a fully managed app platform, or build more flexible solutions using robust platform services.
