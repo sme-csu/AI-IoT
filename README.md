@@ -48,3 +48,9 @@ Project Asset is the knowledge library of representative project experience in c
 - Speech chatbot with Speech + LUIS + QnA maker to help you build a voice chat assistant. 
 
   https://github.com/sme-csu/speech-QnA-assistant
+
+### 3 
+
+- Load result from endpoint for Azure auto ML. Buid (WPF project)
+
+  https://github.com/sme-csu/AutoMLDataReader
