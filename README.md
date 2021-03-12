@@ -15,9 +15,13 @@ In order to promote the improvement and enhancement of the real performance of t
 
 Get proven, secure and responsible AI capabilities on car networking with Azure AI. Build mission-critical solutions that can analyse images, comprehend speech, make predictions using data and imitate other intelligent human behaviours – all using Azure AI.
 
+- SME Sharing Recording: 
+
+  https://msit.microsoftstream.com/video/7fcea3ff-0400-a605-6df3-f1eb411f7a61?referrer=https:%2F%2Fmicrosoftapc.sharepoint.com%2F
+
 - SME Sharing PowerPoint: 
 
-  https://microsoftapc.sharepoint.com/:p:/t/PRCCSU/EYIx9amALkVAss-LHY9En20BE4Mbfjl4Hu5GOEp7rr_PpA?e=0koHOY
+  https://microsoftapc.sharepoint.com/:b:/t/PRCCSU/EYugdyKotA9IsS6JNYV7Y_QBACaOGFDhqxx2Vlpjh0cduQ?e=rhfsWG
 
 ### 1.2 IoT
 
@@ -26,10 +30,12 @@ Azure IoT provides the industry’s broadest portfolio of services and capabilit
 #### 1.2.1 How is the sensor connected to the upper computer.
 
 - SME Sharing Recording: 
-
-  https://microsoftapc.sharepoint.com/:u:/t/PRCCSU/EXY802vChaFGp9EdOs4vSMYBGbndEO-3YFjJValk9YpB5A?e=N1DD8S
   
   https://msit.microsoftstream.com/video/8f13a1ff-0400-96f3-afcc-f1eaff081e4c?referrer=https:%2F%2Fmicrosoftapc.sharepoint.com%2F
+
+- SME Sharing PowerPoint: 
+
+  https://microsoftapc.sharepoint.com/:p:/t/PRCCSU/EYIx9amALkVAss-LHY9En20BE4Mbfjl4Hu5GOEp7rr_PpA?e=4EAnf3
 
 ## 2 SME-CSU Team AI-IoT Project Assets
 
